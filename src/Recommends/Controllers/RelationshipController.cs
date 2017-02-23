@@ -4,7 +4,7 @@ using Recommends.ViewModels;
 namespace Recommends.Controllers
 {
     [Route("api/[controller]")]
-    public class ProductController : Controller
+    public class RelationshipController : Controller
     {
         
         [HttpPost]

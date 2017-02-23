@@ -1,4 +1,4 @@
-﻿namespace Recommends.Models
+﻿namespace Recommends.Entity
 {
     public class User
     {
